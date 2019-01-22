@@ -1,5 +1,4 @@
-# 7.01-neural-network-conceptual-lab
-Week 7, Lab 1: Neural Network Conceptual Lab
+# Neural Network Conceptual Lab
 
 In this lab, you'll focus on the conceptual aspects of a neural network. By the end, you should be able to answer these questions:
 - What does each piece of a perceptron do?
